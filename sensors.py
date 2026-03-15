@@ -37,6 +37,9 @@ def get_particle():
     }
 
 def get_light():
+    return {
+
+    }
 
 
 

@@ -6,4 +6,3 @@ DB = {
 }
 
 READ_INTERVAL_SECONDS = 30
-
