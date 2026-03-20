@@ -6,14 +6,13 @@ import gas
 import pms5003
 bus = SMBus(1)
 bme280 = BME280(i2cdev = bus)
-pms5003 = PMS5003()
-ltr550 = LTR559()
+ltr559 = LTR559()
 
 def get_readings():
     return {    
-        get_bme280(),
-        get_gas(),
-        get_particle()
+        **get_bme280(),
+        **get_gas(),
+        **get_particle()
     }
 
 def get_bme280():
@@ -34,7 +33,7 @@ def get_particle():
 
 def get_light():
     return {
-        
+
     }
     
 
