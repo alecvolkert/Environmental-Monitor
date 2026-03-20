@@ -15,5 +15,7 @@ CREATE TABLE IF NOT EXISTS enviroReadings(
     CH4_methane FLOAT,
     C3H8_propane FLOAT,
     C4H10_isobutane FLOAT,
-    dust_ppm FLOAT
+    PM1.0 FLOAT,
+    PM2.5 FLOAT,
+    PM10.0 FLOAT
 );

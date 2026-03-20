@@ -1,5 +1,10 @@
 import time
+import data
+
 
 def main():
-    while True:
-        
+    try:
+        while True:
+            
+    except KeyboardInterrupt:
+        print("Exit")

@@ -3,7 +3,7 @@ from bme280 import BME280 #temp/pressure/humidity
 from smbus2 import SMBus  #bus
 from ltr559 import LTR559 #
 import gas
-from pms5003 import PMS5003 #particulate sensor
+import pms5003
 bus = SMBus(1)
 bme280 = BME280(i2cdev = bus)
 pms5003 = PMS5003()
@@ -26,21 +26,17 @@ def get_bme280():
 
 
 def get_gas():
-    return {
-        "nh3" : gas.read_nh3,
-        "oxidising" : gas.read_oxidising,
-    }
+    return gas.get_all()
 
 
 def get_particle():
-    return {
-        
-    }
+    return pms5003.read()
 
 def get_light():
     return {
-
+        
     }
+    
 
 
 
