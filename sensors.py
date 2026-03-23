@@ -23,7 +23,6 @@ def get_bme280():
         "pressure" : bme280.get_pressure()
     }
 
-
 def get_gas():
     return gas.get_all()
 
@@ -31,11 +30,6 @@ def get_gas():
 def get_particle():
     return pms5003.read()
 
-def get_light():
-    return {
-
-    }
-    
 
 
 

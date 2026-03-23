@@ -9,10 +9,11 @@ def read():
         "PM25": 0,
         "PM10": 0
     }
-    read_bytes = ser.read_until(bytes([0x42, 0x4d]))
-    particle["PM1"] = (read_bytes[8] << 4) | (read_bytes[9] >> 4)
-    particle["PM25"] = (read_bytes[10] << 4) | (read_bytes[11] >> 4)
-    particle["PM10"] = (read_bytes[12] << 4) | (read_bytes[13] >> 4)
+    ser.read_until(bytes([0x42, 0x4d]))
+    read_bytes = ser.read(30)
+    particle["PM1"] = (read_bytes[8] << 8) | (read_bytes[9] )
+    particle["PM25"] = (read_bytes[10] << 8) | (read_bytes[11])
+    particle["PM10"] = (read_bytes[12] << 8) | (read_bytes[13] )
     return particle
 
 
