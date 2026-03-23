@@ -1,6 +1,7 @@
 import psycopg2
 from dotenv import load_dotenv
 import os
+import requests
 
 load_dotenv()
 
@@ -21,3 +22,12 @@ def add_to_database(readings):
     placeholders = ", ".join(["%s"] * len(values))
     cur.execute("INSERT INTO enviroreadings ({columns}) VALUES ({placeholders})", values)
     conn.commit()
+    send(readings)
+
+def send(dict):
+    headers = {"API_KEY": os.get_env("API_KEY")}
+    requests.post(
+    "https://alecvolkertenvironment.com/api/submit",
+    json=dict,
+    headers=headers
+    )
