@@ -1,9 +1,11 @@
 import serial
-ser = serial.Serial("/dev/ttyAMA0", 9600, timeout=1)
+import time
+ser = serial.Serial("/dev/serial0", 9600, timeout=1)
 
 
 
 def read():
+    time.sleep(30)
     particle = {
         "PM1" : 0,
         "PM25": 0,

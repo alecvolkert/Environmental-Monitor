@@ -18,11 +18,14 @@ class GAS:
     def contact(self, channel):
         
         config = [
-            0x42 | (channel << 4),
+            0x40 | (channel << 4),
             0x83
         ]
-        bus.write_i2c_block_data(address, 0x01 ,config)
-        time.sleep(0.001)
+	bus.write_i2c_block_data(address, 0x01 ,config)
+	while true:
+		result = bus.read_i2c_block_data(address, 0x01 ,2)
+		if result[0] & 0x80:
+			break
 
         data = bus.read_i2c_block_data(address, 0x00, 2)
 
@@ -45,7 +48,7 @@ class GAS:
             voltage = self.to_volts(raw)
             value = self.to_value(voltage)
             readings[name] = value
-            return readings
+        return readings
         
     def get_desired(self, name):
         reading = {}
