@@ -17,16 +17,6 @@ A live environmental monitoring system built on a Raspberry Pi 4 with a Pimoroni
 | PMS5003 | PM1.0, PM2.5, PM10 |
 | LTR559 | Light level |
 
-## Architecture
-```
-Pi (sensors) → PostgreSQL (local) → HTTP POST → VPS (Flask/Gunicorn/Nginx) → PostgreSQL → Chart.js dashboard
-```
-
-## Stack
-
-- **Pi:** Python, smbus2, pyserial, psycopg2, requests
-- **VPS:** Flask, Gunicorn, Nginx, PostgreSQL, DigitalOcean
-- **Frontend:** Chart.js, vanilla JS, CSS
 
 ## Sensor drivers
 
