@@ -20,10 +20,8 @@ class GAS:
             0x83
         ]
         bus.write_i2c_block_data(address, 0x01, config)
-        while True:
-            result = bus.read_i2c_block_data(address, 0x01, 2)
-            if result[0] & 0x80:
-                break
+        time.sleep(0.1)
+
         data = bus.read_i2c_block_data(address, 0x00, 2)
         return (data[0] << 4) | (data[1] >> 4)
 
