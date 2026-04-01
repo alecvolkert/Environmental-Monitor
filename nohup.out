@@ -1,0 +1,973 @@
+reading bme280...
+raw: 28.4, cpu: 39.4, corrected: 10.4
+raw: 28.4, cpu: 39.4, corrected: 10.4
+raw: 28.4, cpu: 39.4, corrected: 10.4
+raw: 28.4, cpu: 39.4, corrected: 10.4
+bme done: {'humidity': 13.411057950073253, 'temperature': 10.444880989640119, 'altitude': 1613.828067520818, 'pressure': 83383.99657488258}
+reading gas...
+gas done: {'oxidising': 8518.518518518518, 'reducing': 5744.274809160304, 'nh3': 6483.516483516481}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 3, 'PM10': 3}
+got readings
+data sent
+reading bme280...
+raw: 26.9, cpu: 37.0, corrected: 10.4
+raw: 26.9, cpu: 37.0, corrected: 10.4
+raw: 26.9, cpu: 37.0, corrected: 10.4
+raw: 26.9, cpu: 37.4, corrected: 9.7
+bme done: {'humidity': 14.678879510940412, 'temperature': 10.402182039862101, 'altitude': 1616.3571709000698, 'pressure': 83358.05627585031}
+reading gas...
+gas done: {'oxidising': 8292.682926829268, 'reducing': 5639.810426540284, 'nh3': 6352.824578790879}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 3, 'PM10': 3}
+got readings
+data sent
+reading bme280...
+raw: 28.3, cpu: 39.4, corrected: 10.0
+raw: 28.3, cpu: 39.4, corrected: 10.0
+raw: 28.3, cpu: 39.4, corrected: 10.0
+raw: 28.3, cpu: 39.4, corrected: 10.0
+bme done: {'humidity': 13.380709865016716, 'temperature': 10.032533716610502, 'altitude': 1616.415193106109, 'pressure': 83357.46123515334}
+reading gas...
+gas done: {'oxidising': 8415.17857142857, 'reducing': 5624.999999999998, 'nh3': 6401.5904572564605}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 28.7, cpu: 39.4, corrected: 11.2
+raw: 28.7, cpu: 39.4, corrected: 11.2
+raw: 28.7, cpu: 39.4, corrected: 11.2
+raw: 28.7, cpu: 39.4, corrected: 11.2
+bme done: {'humidity': 13.027093863734757, 'temperature': 11.216371418549453, 'altitude': 1614.067904936238, 'pressure': 83381.5363497595}
+reading gas...
+gas done: {'oxidising': 8394.648829431437, 'reducing': 5580.736543909349, 'nh3': 6401.5904572564605}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 28.8, cpu: 40.4, corrected: 9.7
+raw: 28.8, cpu: 40.4, corrected: 9.7
+raw: 28.8, cpu: 40.4, corrected: 9.7
+raw: 28.8, cpu: 39.9, corrected: 10.5
+bme done: {'humidity': 13.030046987980302, 'temperature': 9.696741419923818, 'altitude': 1613.7237541203588, 'pressure': 83385.06662830582}
+reading gas...
+gas done: {'oxidising': 8333.333333333332, 'reducing': 5536.723163841806, 'nh3': 6352.824578790879}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 29.1, cpu: 40.9, corrected: 9.7
+raw: 29.1, cpu: 38.9, corrected: 13.0
+raw: 29.1, cpu: 38.9, corrected: 13.0
+raw: 29.1, cpu: 38.9, corrected: 13.0
+bme done: {'humidity': 12.729323793717098, 'temperature': 12.967156129349103, 'altitude': 1613.7664970028056, 'pressure': 83384.62816778457}
+reading gas...
+gas done: {'oxidising': 8292.682926829268, 'reducing': 5507.518796992479, 'nh3': 6320.474777448068}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 28.8, cpu: 39.9, corrected: 10.6
+raw: 28.8, cpu: 39.9, corrected: 10.6
+raw: 28.8, cpu: 39.4, corrected: 11.4
+raw: 28.8, cpu: 39.4, corrected: 11.4
+bme done: {'humidity': 12.948914684095895, 'temperature': 10.609524688052904, 'altitude': 1614.5429128233359, 'pressure': 83376.66394597257}
+reading gas...
+gas done: {'oxidising': 8252.21238938053, 'reducing': 5478.424015009379, 'nh3': 6304.347826086955}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 28.3, cpu: 39.4, corrected: 10.1
+raw: 28.3, cpu: 38.9, corrected: 10.9
+raw: 28.3, cpu: 38.9, corrected: 10.9
+raw: 28.3, cpu: 38.9, corrected: 10.9
+bme done: {'humidity': 13.396741903844896, 'temperature': 10.892110390305046, 'altitude': 1616.2146080647376, 'pressure': 83359.51832878176}
+reading gas...
+gas done: {'oxidising': 8151.815181518151, 'reducing': 5434.9859681945745, 'nh3': 6240.15748031496}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 28.4, cpu: 39.9, corrected: 9.7
+raw: 28.4, cpu: 39.4, corrected: 10.5
+raw: 28.4, cpu: 39.4, corrected: 10.5
+raw: 28.4, cpu: 39.4, corrected: 10.5
+bme done: {'humidity': 13.370396759967283, 'temperature': 10.49808714315639, 'altitude': 1615.8761443937183, 'pressure': 83362.98952558845}
+reading gas...
+gas done: {'oxidising': 8092.105263157893, 'reducing': 5420.56074766355, 'nh3': 6208.251473477406}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 28.5, cpu: 39.4, corrected: 10.5
+raw: 28.5, cpu: 39.4, corrected: 10.5
+raw: 28.5, cpu: 39.4, corrected: 10.5
+raw: 28.5, cpu: 39.4, corrected: 10.5
+bme done: {'humidity': 13.482912603537507, 'temperature': 10.511388683455838, 'altitude': 1615.0374006474694, 'pressure': 83371.59197122203}
+reading gas...
+gas done: {'oxidising': 8072.289156626504, 'reducing': 5391.791044776118, 'nh3': 6192.345436702647}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 28.2, cpu: 39.9, corrected: 9.0
+raw: 28.2, cpu: 39.9, corrected: 9.0
+raw: 28.2, cpu: 39.9, corrected: 9.0
+raw: 28.2, cpu: 38.9, corrected: 10.7
+bme done: {'humidity': 13.626941770676796, 'temperature': 9.039941980980227, 'altitude': 1615.483867433401, 'pressure': 83367.01276415058}
+reading gas...
+gas done: {'oxidising': 8013.100436681221, 'reducing': 5377.446411929171, 'nh3': 6176.470588235293}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 28.0, cpu: 37.9, corrected: 11.7
+raw: 28.0, cpu: 38.4, corrected: 10.9
+raw: 28.0, cpu: 38.4, corrected: 10.9
+raw: 28.0, cpu: 38.4, corrected: 10.9
+bme done: {'humidity': 14.051330766576266, 'temperature': 10.873788579769503, 'altitude': 1616.0553788401967, 'pressure': 83361.15132838798}
+reading gas...
+gas done: {'oxidising': 7954.298150163219, 'reducing': 5363.128491620109, 'nh3': 6144.8140900195685}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 27.4, cpu: 37.0, corrected: 11.7
+raw: 27.4, cpu: 35.5, corrected: 14.2
+raw: 27.4, cpu: 35.5, corrected: 14.2
+raw: 27.4, cpu: 35.5, corrected: 14.2
+bme done: {'humidity': 14.616994470767727, 'temperature': 14.204634375004554, 'altitude': 1617.044880363266, 'pressure': 83351.0037642016}
+reading gas...
+gas done: {'oxidising': 7876.489707475622, 'reducing': 5348.837209302325, 'nh3': 6097.5609756097565}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 27.0, cpu: 37.0, corrected: 10.7
+raw: 27.0, cpu: 37.0, corrected: 10.7
+raw: 27.0, cpu: 37.0, corrected: 10.7
+raw: 27.0, cpu: 37.0, corrected: 10.7
+bme done: {'humidity': 14.853447487017771, 'temperature': 10.654907014664097, 'altitude': 1616.368867768299, 'pressure': 83357.9363195584}
+reading gas...
+gas done: {'oxidising': 7799.35275080906, 'reducing': 5334.572490706318, 'nh3': 6066.212268743915}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 26.9, cpu: 37.4, corrected: 9.6
+raw: 26.9, cpu: 37.4, corrected: 9.6
+raw: 26.9, cpu: 37.4, corrected: 9.6
+raw: 26.9, cpu: 37.9, corrected: 8.8
+bme done: {'humidity': 14.95134533357298, 'temperature': 9.613431301693236, 'altitude': 1615.2299106193996, 'pressure': 83369.61745888852}
+reading gas...
+gas done: {'oxidising': 7761.033369214207, 'reducing': 5320.3342618384395, 'nh3': 6034.985422740525}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 27.0, cpu: 37.9, corrected: 9.2
+raw: 27.0, cpu: 37.9, corrected: 9.2
+raw: 27.0, cpu: 37.9, corrected: 9.2
+raw: 27.0, cpu: 37.9, corrected: 9.2
+bme done: {'humidity': 14.915269482543723, 'temperature': 9.179497178598528, 'altitude': 1614.315152481734, 'pressure': 83379.00017388641}
+reading gas...
+gas done: {'oxidising': 7741.935483870965, 'reducing': 5306.1224489795895, 'nh3': 6019.417475728154}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 26.9, cpu: 37.0, corrected: 10.4
+raw: 26.9, cpu: 37.0, corrected: 10.4
+raw: 26.9, cpu: 37.0, corrected: 10.4
+raw: 26.9, cpu: 37.0, corrected: 10.4
+bme done: {'humidity': 15.061792962951566, 'temperature': 10.362278121821276, 'altitude': 1615.2745884392873, 'pressure': 83369.15921839657}
+reading gas...
+gas done: {'oxidising': 7722.878625134262, 'reducing': 5306.1224489795895, 'nh3': 6003.879728419011}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.2, cpu: 34.0, corrected: 8.1
+raw: 24.2, cpu: 34.0, corrected: 8.1
+raw: 24.2, cpu: 34.0, corrected: 8.1
+raw: 24.2, cpu: 33.1, corrected: 9.5
+bme done: {'humidity': 17.687337183322953, 'temperature': 8.05781561314581, 'altitude': 1615.5597537758952, 'pressure': 83366.23445264714}
+reading gas...
+gas done: {'oxidising': 7460.3174603174575, 'reducing': 5263.644773358001, 'nh3': 5880.6544754571705}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 22.1, cpu: 31.1, corrected: 7.5
+raw: 22.1, cpu: 31.1, corrected: 7.5
+raw: 22.1, cpu: 31.1, corrected: 7.5
+raw: 22.1, cpu: 31.1, corrected: 7.5
+bme done: {'humidity': 19.870909902282552, 'temperature': 7.465019164055862, 'altitude': 1617.3001419250563, 'pressure': 83348.38616086524}
+reading gas...
+gas done: {'oxidising': 7277.486910994762, 'reducing': 5249.537892791125, 'nh3': 5804.597701149424}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 21.4, cpu: 30.1, corrected: 7.1
+raw: 21.4, cpu: 30.1, corrected: 7.1
+raw: 21.4, cpu: 30.1, corrected: 7.1
+raw: 21.4, cpu: 30.1, corrected: 7.1
+bme done: {'humidity': 20.645137144079314, 'temperature': 7.109285224136057, 'altitude': 1617.966054087528, 'pressure': 83341.55781620953}
+reading gas...
+gas done: {'oxidising': 7169.614984391258, 'reducing': 5235.45706371191, 'nh3': 5759.312320916906}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 21.3, cpu: 30.1, corrected: 6.8
+raw: 21.3, cpu: 30.1, corrected: 6.8
+raw: 21.3, cpu: 30.1, corrected: 6.8
+raw: 21.3, cpu: 30.1, corrected: 6.8
+bme done: {'humidity': 20.85412505450677, 'temperature': 6.843276103029547, 'altitude': 1619.057093366795, 'pressure': 83330.37114520502}
+reading gas...
+gas done: {'oxidising': 7151.7671517671515, 'reducing': 5221.402214022138, 'nh3': 5744.274809160304}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 21.2, cpu: 28.7, corrected: 9.0
+raw: 21.2, cpu: 28.7, corrected: 9.0
+raw: 21.2, cpu: 28.7, corrected: 9.0
+raw: 21.2, cpu: 28.7, corrected: 9.0
+bme done: {'humidity': 21.011782723351622, 'temperature': 8.965452306291674, 'altitude': 1618.1504828204331, 'pressure': 83339.66674155382}
+reading gas...
+gas done: {'oxidising': 7116.182572614107, 'reducing': 5221.402214022138, 'nh3': 5729.26596758818}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 20.8, cpu: 29.7, corrected: 6.1
+raw: 20.8, cpu: 30.1, corrected: 5.5
+raw: 20.8, cpu: 30.1, corrected: 5.5
+raw: 20.8, cpu: 30.1, corrected: 5.5
+bme done: {'humidity': 21.615900282370983, 'temperature': 5.473333995178969, 'altitude': 1620.1371082436674, 'pressure': 83319.29870735535}
+reading gas...
+gas done: {'oxidising': 7080.7453416149065, 'reducing': 5221.402214022138, 'nh3': 5714.285714285713}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 20.7, cpu: 30.1, corrected: 5.3
+raw: 20.7, cpu: 30.1, corrected: 5.3
+raw: 20.7, cpu: 30.1, corrected: 5.3
+raw: 20.7, cpu: 30.1, corrected: 5.3
+bme done: {'humidity': 21.746133832047008, 'temperature': 5.260528185432699, 'altitude': 1619.6883526428758, 'pressure': 83323.89925718533}
+reading gas...
+gas done: {'oxidising': 7063.081695966907, 'reducing': 5207.3732718894, 'nh3': 5699.333967649857}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.2, cpu: 35.0, corrected: 6.6
+raw: 24.2, cpu: 35.0, corrected: 6.6
+raw: 24.2, cpu: 35.0, corrected: 6.6
+raw: 24.2, cpu: 35.0, corrected: 6.6
+bme done: {'humidity': 17.606806006830368, 'temperature': 6.551480266816068, 'altitude': 1621.0242049130193, 'pressure': 83310.20498047135}
+reading gas...
+gas done: {'oxidising': 7295.597484276727, 'reducing': 5221.402214022138, 'nh3': 5789.473684210527}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.4, cpu: 36.5, corrected: 7.1
+raw: 25.4, cpu: 36.5, corrected: 7.1
+raw: 25.4, cpu: 35.5, corrected: 8.7
+raw: 25.4, cpu: 35.5, corrected: 8.7
+bme done: {'humidity': 16.315332143863863, 'temperature': 7.098485859221732, 'altitude': 1619.6872686312245, 'pressure': 83323.91037049812}
+reading gas...
+gas done: {'oxidising': 7386.722866174919, 'reducing': 5221.402214022138, 'nh3': 5819.750719079579}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 25.7, cpu: 35.5, corrected: 9.6
+raw: 25.7, cpu: 35.5, corrected: 9.6
+raw: 25.7, cpu: 35.5, corrected: 9.6
+raw: 25.7, cpu: 36.0, corrected: 8.7
+bme done: {'humidity': 15.896059521030208, 'temperature': 9.562497878335055, 'altitude': 1620.1436407795827, 'pressure': 83319.23173866376}
+reading gas...
+gas done: {'oxidising': 7386.722866174919, 'reducing': 5221.402214022138, 'nh3': 5819.750719079579}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 25.8, cpu: 36.5, corrected: 8.2
+raw: 25.8, cpu: 36.5, corrected: 8.2
+raw: 25.8, cpu: 35.5, corrected: 9.8
+raw: 25.8, cpu: 35.5, corrected: 9.8
+bme done: {'humidity': 15.824097765348409, 'temperature': 8.162573840442494, 'altitude': 1619.7063029913056, 'pressure': 83323.71522996777}
+reading gas...
+gas done: {'oxidising': 7386.722866174919, 'reducing': 5221.402214022138, 'nh3': 5819.750719079579}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 25.7, cpu: 36.5, corrected: 8.1
+raw: 25.7, cpu: 36.5, corrected: 8.1
+raw: 25.7, cpu: 36.5, corrected: 8.1
+raw: 25.7, cpu: 36.5, corrected: 8.1
+bme done: {'humidity': 15.774990877812208, 'temperature': 8.096068197588021, 'altitude': 1619.7850511452048, 'pressure': 83322.90790670578}
+reading gas...
+gas done: {'oxidising': 7350.157728706622, 'reducing': 5221.402214022138, 'nh3': 5804.597701149424}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 25.9, cpu: 36.5, corrected: 8.6
+raw: 25.9, cpu: 36.5, corrected: 8.6
+raw: 25.9, cpu: 37.0, corrected: 7.7
+raw: 25.9, cpu: 37.0, corrected: 7.7
+bme done: {'humidity': 15.743325510801094, 'temperature': 8.561608100848243, 'altitude': 1621.2852604854484, 'pressure': 83307.52902373913}
+reading gas...
+gas done: {'oxidising': 7350.157728706622, 'reducing': 5221.402214022138, 'nh3': 5804.597701149424}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 25.9, cpu: 37.4, corrected: 7.0
+raw: 25.9, cpu: 36.0, corrected: 9.3
+raw: 25.9, cpu: 36.0, corrected: 9.3
+raw: 25.9, cpu: 36.0, corrected: 9.3
+bme done: {'humidity': 15.693940926274934, 'temperature': 9.328075623997872, 'altitude': 1622.8354142815774, 'pressure': 83291.6405667205}
+reading gas...
+gas done: {'oxidising': 7331.932773109242, 'reducing': 5221.402214022138, 'nh3': 5789.473684210527}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 26.1, cpu: 37.4, corrected: 7.5
+raw: 26.1, cpu: 37.4, corrected: 7.5
+raw: 26.1, cpu: 37.4, corrected: 7.5
+raw: 26.1, cpu: 37.4, corrected: 7.5
+bme done: {'humidity': 15.489207270768627, 'temperature': 7.458630864899398, 'altitude': 1624.2826050477127, 'pressure': 83276.80965427222}
+reading gas...
+gas done: {'oxidising': 7331.932773109242, 'reducing': 5221.402214022138, 'nh3': 5789.473684210527}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 7}
+got readings
+data sent
+reading bme280...
+raw: 25.9, cpu: 36.5, corrected: 8.5
+raw: 25.9, cpu: 36.5, corrected: 8.5
+raw: 25.9, cpu: 36.5, corrected: 8.5
+raw: 25.9, cpu: 37.0, corrected: 7.7
+bme done: {'humidity': 15.632553366119163, 'temperature': 8.495102342771226, 'altitude': 1625.723707646448, 'pressure': 83262.04325865174}
+reading gas...
+gas done: {'oxidising': 7295.597484276727, 'reducing': 5207.3732718894, 'nh3': 5774.378585086041}
+reading pms5003...
+pms done: {'PM1': 2, 'PM25': 6, 'PM10': 7}
+got readings
+data sent
+reading bme280...
+raw: 25.9, cpu: 36.0, corrected: 9.3
+raw: 25.9, cpu: 36.0, corrected: 9.3
+raw: 25.9, cpu: 36.0, corrected: 9.3
+raw: 25.9, cpu: 36.5, corrected: 8.4
+bme done: {'humidity': 15.611198104644236, 'temperature': 9.261569881283858, 'altitude': 1627.787450205878, 'pressure': 83240.90061513854}
+reading gas...
+gas done: {'oxidising': 7295.597484276727, 'reducing': 5207.3732718894, 'nh3': 5774.378585086041}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 26.0, cpu: 36.5, corrected: 8.7
+raw: 26.0, cpu: 36.5, corrected: 8.7
+raw: 26.0, cpu: 36.5, corrected: 8.7
+raw: 26.0, cpu: 36.5, corrected: 8.7
+bme done: {'humidity': 15.499896958158525, 'temperature': 8.681318513780347, 'altitude': 1629.917510548519, 'pressure': 83219.08311784134}
+reading gas...
+gas done: {'oxidising': 7277.486910994762, 'reducing': 5207.3732718894, 'nh3': 5759.312320916906}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 26.0, cpu: 37.0, corrected: 8.0
+raw: 26.0, cpu: 36.5, corrected: 8.8
+raw: 26.0, cpu: 36.5, corrected: 8.8
+raw: 26.0, cpu: 36.5, corrected: 8.8
+bme done: {'humidity': 15.36880676229021, 'temperature': 8.787727821954206, 'altitude': 1630.6649830200565, 'pressure': 83211.42810432984}
+reading gas...
+gas done: {'oxidising': 7259.41422594142, 'reducing': 5207.3732718894, 'nh3': 5744.274809160304}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.7, cpu: 36.0, corrected: 8.8
+raw: 25.7, cpu: 36.0, corrected: 8.8
+raw: 25.7, cpu: 37.0, corrected: 7.2
+raw: 25.7, cpu: 37.0, corrected: 7.2
+bme done: {'humidity': 15.625308263043507, 'temperature': 8.835933582659159, 'altitude': 1630.9575802813215, 'pressure': 83208.43171315189}
+reading gas...
+gas done: {'oxidising': 7223.382045929016, 'reducing': 5207.3732718894, 'nh3': 5729.26596758818}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.4, cpu: 35.0, corrected: 9.7
+raw: 25.4, cpu: 35.0, corrected: 9.7
+raw: 25.4, cpu: 35.0, corrected: 9.7
+raw: 25.4, cpu: 35.0, corrected: 9.7
+bme done: {'humidity': 15.960082341228231, 'temperature': 9.690512981464353, 'altitude': 1631.3197508428655, 'pressure': 83204.72296595592}
+reading gas...
+gas done: {'oxidising': 7187.499999999999, 'reducing': 5207.3732718894, 'nh3': 5714.285714285713}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.2, cpu: 36.5, corrected: 6.8
+raw: 25.2, cpu: 36.0, corrected: 7.6
+raw: 25.2, cpu: 36.0, corrected: 7.6
+raw: 25.2, cpu: 36.0, corrected: 7.6
+bme done: {'humidity': 16.18135401840155, 'temperature': 7.612233605642313, 'altitude': 1632.5056385083822, 'pressure': 83192.58001788225}
+reading gas...
+gas done: {'oxidising': 7169.614984391258, 'reducing': 5193.370165745854, 'nh3': 5699.333967649857}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.2, cpu: 36.0, corrected: 7.5
+raw: 25.2, cpu: 36.0, corrected: 7.5
+raw: 25.2, cpu: 36.0, corrected: 7.5
+raw: 25.2, cpu: 36.0, corrected: 7.5
+bme done: {'humidity': 15.982505813737983, 'temperature': 7.47922313033191, 'altitude': 1634.71452920564, 'pressure': 83169.96581156451}
+reading gas...
+gas done: {'oxidising': 7133.956386292834, 'reducing': 5193.370165745854, 'nh3': 5699.333967649857}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 25.2, cpu: 36.0, corrected: 7.5
+raw: 25.2, cpu: 36.0, corrected: 7.5
+raw: 25.2, cpu: 35.5, corrected: 8.3
+raw: 25.2, cpu: 35.5, corrected: 8.3
+bme done: {'humidity': 15.927072679263256, 'temperature': 7.452621044487628, 'altitude': 1634.3356741245843, 'pressure': 83173.84410474497}
+reading gas...
+gas done: {'oxidising': 7116.182572614107, 'reducing': 5193.370165745854, 'nh3': 5684.410646387832}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.1, cpu: 36.0, corrected: 7.2
+raw: 25.1, cpu: 36.0, corrected: 7.2
+raw: 25.1, cpu: 36.0, corrected: 7.2
+raw: 25.1, cpu: 36.0, corrected: 7.2
+bme done: {'humidity': 15.886760667912023, 'temperature': 7.226503438867542, 'altitude': 1636.500939735287, 'pressure': 83151.6805182107}
+reading gas...
+gas done: {'oxidising': 7098.4455958549215, 'reducing': 5193.370165745854, 'nh3': 5669.51566951567}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.0, cpu: 35.5, corrected: 7.8
+raw: 25.0, cpu: 35.5, corrected: 7.8
+raw: 25.0, cpu: 35.5, corrected: 7.8
+raw: 25.0, cpu: 35.5, corrected: 7.8
+bme done: {'humidity': 16.05367624490139, 'temperature': 7.806757170737615, 'altitude': 1638.9898330264132, 'pressure': 83126.21019744745}
+reading gas...
+gas done: {'oxidising': 7098.4455958549215, 'reducing': 5193.370165745854, 'nh3': 5669.51566951567}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 3, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 25.0, cpu: 35.5, corrected: 7.8
+raw: 25.0, cpu: 35.0, corrected: 8.6
+raw: 25.0, cpu: 35.0, corrected: 8.6
+raw: 25.0, cpu: 35.0, corrected: 8.6
+bme done: {'humidity': 16.020637722140545, 'temperature': 8.599827272884003, 'altitude': 1640.919472307965, 'pressure': 83106.46740233932}
+reading gas...
+gas done: {'oxidising': 7063.081695966907, 'reducing': 5193.370165745854, 'nh3': 5654.648956356734}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 3, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 25.1, cpu: 36.5, corrected: 6.4
+raw: 25.1, cpu: 36.5, corrected: 6.4
+raw: 25.1, cpu: 35.0, corrected: 8.9
+raw: 25.1, cpu: 35.0, corrected: 8.9
+bme done: {'humidity': 15.953894312842648, 'temperature': 6.406831307720001, 'altitude': 1641.6315104993996, 'pressure': 83099.18325672638}
+reading gas...
+gas done: {'oxidising': 7080.7453416149065, 'reducing': 5193.370165745854, 'nh3': 5654.648956356734}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 3, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 25.0, cpu: 36.0, corrected: 7.0
+raw: 25.0, cpu: 36.0, corrected: 7.0
+raw: 25.0, cpu: 35.5, corrected: 7.8
+raw: 25.0, cpu: 35.5, corrected: 7.8
+bme done: {'humidity': 16.06993630808225, 'temperature': 7.013687071663835, 'altitude': 1641.6775589566341, 'pressure': 83098.71219913532}
+reading gas...
+gas done: {'oxidising': 7063.081695966907, 'reducing': 5193.370165745854, 'nh3': 5654.648956356734}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 3, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 25.0, cpu: 35.5, corrected: 7.8
+raw: 25.0, cpu: 36.0, corrected: 6.9
+raw: 25.0, cpu: 36.0, corrected: 6.9
+raw: 25.0, cpu: 36.0, corrected: 6.9
+bme done: {'humidity': 16.149792811524833, 'temperature': 6.933880984660362, 'altitude': 1643.6191777224774, 'pressure': 83078.85217091418}
+reading gas...
+gas done: {'oxidising': 7045.454545454545, 'reducing': 5179.392824287028, 'nh3': 5639.810426540284}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 3, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 25.0, cpu: 36.5, corrected: 6.0
+raw: 25.0, cpu: 36.5, corrected: 6.0
+raw: 25.0, cpu: 36.5, corrected: 6.0
+raw: 25.0, cpu: 35.0, corrected: 8.5
+bme done: {'humidity': 16.151603390850834, 'temperature': 6.0211017869596155, 'altitude': 1644.6015498714025, 'pressure': 83068.80535023072}
+reading gas...
+gas done: {'oxidising': 7010.309278350514, 'reducing': 5179.392824287028, 'nh3': 5639.810426540284}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.6, cpu: 36.0, corrected: 5.9
+raw: 24.6, cpu: 36.0, corrected: 5.9
+raw: 24.6, cpu: 36.0, corrected: 5.9
+raw: 24.6, cpu: 36.0, corrected: 5.9
+bme done: {'humidity': 16.404362978546093, 'temperature': 5.909705322740038, 'altitude': 1646.4717503214367, 'pressure': 83049.68133766012}
+reading gas...
+gas done: {'oxidising': 6992.790937178166, 'reducing': 5179.392824287028, 'nh3': 5624.999999999998}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.5, cpu: 34.0, corrected: 9.1
+raw: 24.5, cpu: 34.0, corrected: 9.1
+raw: 24.5, cpu: 34.0, corrected: 9.1
+raw: 24.5, cpu: 34.0, corrected: 9.1
+bme done: {'humidity': 16.401328220795587, 'temperature': 9.055384355252155, 'altitude': 1647.9117393910192, 'pressure': 83034.95894475348}
+reading gas...
+gas done: {'oxidising': 6957.8622816032885, 'reducing': 5179.392824287028, 'nh3': 5610.217596972564}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.5, cpu: 36.5, corrected: 4.7
+raw: 24.5, cpu: 35.5, corrected: 6.4
+raw: 24.5, cpu: 35.5, corrected: 6.4
+raw: 24.5, cpu: 35.5, corrected: 6.4
+bme done: {'humidity': 16.433339362408976, 'temperature': 6.38355293425991, 'altitude': 1649.2409896943193, 'pressure': 83021.37061651114}
+reading gas...
+gas done: {'oxidising': 6940.451745379876, 'reducing': 5179.392824287028, 'nh3': 5610.217596972564}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.2, cpu: 35.5, corrected: 5.5
+raw: 24.2, cpu: 35.5, corrected: 5.5
+raw: 24.2, cpu: 35.0, corrected: 6.4
+raw: 24.2, cpu: 35.0, corrected: 6.4
+bme done: {'humidity': 16.767514079602226, 'temperature': 5.54559567482525, 'altitude': 1650.1313326523793, 'pressure': 83012.27004767372}
+reading gas...
+gas done: {'oxidising': 6923.076923076922, 'reducing': 5179.392824287028, 'nh3': 5595.4631379962175}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.1, cpu: 34.5, corrected: 7.0
+raw: 24.1, cpu: 34.5, corrected: 7.0
+raw: 24.1, cpu: 34.5, corrected: 7.0
+raw: 24.1, cpu: 34.5, corrected: 7.0
+bme done: {'humidity': 16.764938839324323, 'temperature': 7.025329376228985, 'altitude': 1650.423301279928, 'pressure': 83009.28588974108}
+reading gas...
+gas done: {'oxidising': 6905.737704918032, 'reducing': 5179.392824287028, 'nh3': 5595.4631379962175}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.0, cpu: 33.1, corrected: 9.0
+raw: 24.0, cpu: 33.1, corrected: 9.0
+raw: 24.0, cpu: 33.1, corrected: 9.0
+raw: 24.0, cpu: 34.0, corrected: 7.5
+bme done: {'humidity': 16.904590605273683, 'temperature': 9.014491410914145, 'altitude': 1652.2223080049323, 'pressure': 82990.90048752927}
+reading gas...
+gas done: {'oxidising': 6888.433981576253, 'reducing': 5179.392824287028, 'nh3': 5580.736543909349}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 23.9, cpu: 34.5, corrected: 6.5
+raw: 23.9, cpu: 34.5, corrected: 6.5
+raw: 23.9, cpu: 34.5, corrected: 6.5
+raw: 23.9, cpu: 34.5, corrected: 6.5
+bme done: {'humidity': 16.9362090461294, 'temperature': 6.519896663149115, 'altitude': 1652.972017619359, 'pressure': 82983.23961475855}
+reading gas...
+gas done: {'oxidising': 6871.165644171779, 'reducing': 5179.392824287028, 'nh3': 5580.736543909349}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 23.9, cpu: 33.6, corrected: 8.0
+raw: 23.9, cpu: 35.5, corrected: 4.9
+raw: 23.9, cpu: 35.5, corrected: 4.9
+raw: 23.9, cpu: 35.5, corrected: 4.9
+bme done: {'humidity': 16.857371271731576, 'temperature': 4.920454943137717, 'altitude': 1652.5144055439023, 'pressure': 82987.91563434438}
+reading gas...
+gas done: {'oxidising': 6871.165644171779, 'reducing': 5165.4411764705865, 'nh3': 5566.037735849055}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 4}
+got readings
+data sent
+reading bme280...
+raw: 23.7, cpu: 35.0, corrected: 5.1
+raw: 23.7, cpu: 35.0, corrected: 5.1
+raw: 23.7, cpu: 35.0, corrected: 5.1
+raw: 23.7, cpu: 35.0, corrected: 5.1
+bme done: {'humidity': 17.164540557415286, 'temperature': 5.114988039441684, 'altitude': 1654.8980904929183, 'pressure': 82963.56075397824}
+reading gas...
+gas done: {'oxidising': 6836.73469387755, 'reducing': 5165.4411764705865, 'nh3': 5551.366635249765}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.7, cpu: 34.0, corrected: 6.8
+raw: 23.7, cpu: 34.0, corrected: 6.8
+raw: 23.7, cpu: 34.0, corrected: 6.8
+raw: 23.7, cpu: 34.0, corrected: 6.8
+bme done: {'humidity': 17.286449569396204, 'temperature': 6.794234742624614, 'altitude': 1655.4659074406634, 'pressure': 82957.76003810101}
+reading gas...
+gas done: {'oxidising': 6836.73469387755, 'reducing': 5165.4411764705865, 'nh3': 5551.366635249765}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.4, cpu: 34.0, corrected: 6.1
+raw: 23.4, cpu: 34.0, corrected: 6.1
+raw: 23.4, cpu: 34.0, corrected: 6.1
+raw: 23.4, cpu: 34.0, corrected: 6.1
+bme done: {'humidity': 17.526817477034953, 'temperature': 6.1424957404952245, 'altitude': 1656.4463859092848, 'pressure': 82947.7444194233}
+reading gas...
+gas done: {'oxidising': 6819.571865443424, 'reducing': 5165.4411764705865, 'nh3': 5551.366635249765}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 5, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 23.6, cpu: 34.0, corrected: 6.6
+raw: 23.6, cpu: 34.0, corrected: 6.6
+raw: 23.6, cpu: 34.0, corrected: 6.6
+raw: 23.6, cpu: 34.0, corrected: 6.6
+bme done: {'humidity': 17.32306292712306, 'temperature': 6.621324215373729, 'altitude': 1655.3126182723106, 'pressure': 82959.32598033032}
+reading gas...
+gas done: {'oxidising': 6819.571865443424, 'reducing': 5165.4411764705865, 'nh3': 5551.366635249765}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.6, cpu: 33.1, corrected: 8.0
+raw: 23.6, cpu: 33.1, corrected: 8.0
+raw: 23.6, cpu: 33.1, corrected: 8.0
+raw: 23.6, cpu: 33.1, corrected: 8.0
+bme done: {'humidity': 17.336399856617216, 'temperature': 7.977026839389417, 'altitude': 1656.6854497964432, 'pressure': 82945.3025227013}
+reading gas...
+gas done: {'oxidising': 6802.44399185336, 'reducing': 5165.4411764705865, 'nh3': 5536.723163841806}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 4, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.6, cpu: 34.0, corrected: 6.4
+raw: 23.6, cpu: 34.0, corrected: 6.4
+raw: 23.6, cpu: 34.0, corrected: 6.4
+raw: 23.6, cpu: 34.0, corrected: 6.4
+bme done: {'humidity': 17.35409146156205, 'temperature': 6.448413817940249, 'altitude': 1657.4665223773106, 'pressure': 82937.32473234604}
+reading gas...
+gas done: {'oxidising': 6802.44399185336, 'reducing': 5165.4411764705865, 'nh3': 5536.723163841806}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.6, cpu: 35.5, corrected: 4.2
+raw: 23.6, cpu: 35.5, corrected: 4.2
+raw: 23.6, cpu: 35.5, corrected: 4.2
+raw: 23.6, cpu: 35.5, corrected: 4.2
+bme done: {'humidity': 17.310940997766593, 'temperature': 4.215511047258516, 'altitude': 1658.377207078669, 'pressure': 82928.0238824077}
+reading gas...
+gas done: {'oxidising': 6785.350966429297, 'reducing': 5165.4411764705865, 'nh3': 5536.723163841806}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 23.7, cpu: 35.0, corrected: 5.0
+raw: 23.7, cpu: 35.0, corrected: 5.0
+raw: 23.7, cpu: 35.0, corrected: 5.0
+raw: 23.7, cpu: 35.0, corrected: 5.0
+bme done: {'humidity': 17.316271517762768, 'temperature': 5.048483986658287, 'altitude': 1659.848770985267, 'pressure': 82912.99654141281}
+reading gas...
+gas done: {'oxidising': 6785.350966429297, 'reducing': 5165.4411764705865, 'nh3': 5536.723163841806}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 23.6, cpu: 34.0, corrected: 6.6
+raw: 23.6, cpu: 34.0, corrected: 6.6
+raw: 23.6, cpu: 34.0, corrected: 6.6
+raw: 23.6, cpu: 34.0, corrected: 6.6
+bme done: {'humidity': 17.43962641386559, 'temperature': 6.647925826501137, 'altitude': 1658.2549549781636, 'pressure': 82929.27239766667}
+reading gas...
+gas done: {'oxidising': 6785.350966429297, 'reducing': 5165.4411764705865, 'nh3': 5536.723163841806}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 7}
+got readings
+data sent
+reading bme280...
+raw: 23.5, cpu: 35.0, corrected: 4.7
+raw: 23.5, cpu: 35.0, corrected: 4.7
+raw: 23.5, cpu: 35.0, corrected: 4.7
+raw: 23.5, cpu: 34.5, corrected: 5.5
+bme done: {'humidity': 17.584256310604683, 'temperature': 4.715964010797656, 'altitude': 1659.7308368820686, 'pressure': 82914.20078158875}
+reading gas...
+gas done: {'oxidising': 6768.292682926828, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 23.7, cpu: 35.5, corrected: 4.4
+raw: 23.7, cpu: 35.5, corrected: 4.4
+raw: 23.7, cpu: 35.5, corrected: 4.4
+raw: 23.7, cpu: 35.0, corrected: 5.2
+bme done: {'humidity': 17.43017644307865, 'temperature': 4.401722432691397, 'altitude': 1658.976746834351, 'pressure': 82921.9012260818}
+reading gas...
+gas done: {'oxidising': 6785.350966429297, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.4, cpu: 33.6, corrected: 6.7
+raw: 23.4, cpu: 33.6, corrected: 6.7
+raw: 23.4, cpu: 33.6, corrected: 6.7
+raw: 23.4, cpu: 33.6, corrected: 6.7
+bme done: {'humidity': 17.7566583648527, 'temperature': 6.718428796387116, 'altitude': 1659.6685437047447, 'pressure': 82914.8368708868}
+reading gas...
+gas done: {'oxidising': 6768.292682926828, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.7, cpu: 35.0, corrected: 5.2
+raw: 23.7, cpu: 35.0, corrected: 5.2
+raw: 23.7, cpu: 35.0, corrected: 5.2
+raw: 23.7, cpu: 35.0, corrected: 5.2
+bme done: {'humidity': 17.35746066950219, 'temperature': 5.234695382845263, 'altitude': 1661.7311760775294, 'pressure': 82893.77697978726}
+reading gas...
+gas done: {'oxidising': 6751.269035532994, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.7, cpu: 34.5, corrected: 5.9
+raw: 23.7, cpu: 34.5, corrected: 5.9
+raw: 23.7, cpu: 35.5, corrected: 4.3
+raw: 23.7, cpu: 35.5, corrected: 4.3
+bme done: {'humidity': 17.420966361399206, 'temperature': 5.9346601705892255, 'altitude': 1660.026309987696, 'pressure': 82911.18369471251}
+reading gas...
+gas done: {'oxidising': 6751.269035532994, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 23.9, cpu: 33.6, corrected: 8.1
+raw: 23.9, cpu: 33.6, corrected: 8.1
+raw: 23.9, cpu: 33.6, corrected: 8.1
+raw: 23.9, cpu: 35.0, corrected: 5.8
+bme done: {'humidity': 17.241751906084623, 'temperature': 8.061810740194902, 'altitude': 1659.048411947681, 'pressure': 82921.16938774794}
+reading gas...
+gas done: {'oxidising': 6768.292682926828, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 24.1, cpu: 34.5, corrected: 7.2
+raw: 24.1, cpu: 34.5, corrected: 7.2
+raw: 24.1, cpu: 34.5, corrected: 7.2
+raw: 24.1, cpu: 34.0, corrected: 8.0
+bme done: {'humidity': 17.002414170810876, 'temperature': 7.158338169290278, 'altitude': 1659.7573637776236, 'pressure': 82913.929910839}
+reading gas...
+gas done: {'oxidising': 6768.292682926828, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 24.2, cpu: 34.0, corrected: 8.1
+raw: 24.2, cpu: 36.5, corrected: 4.0
+raw: 24.2, cpu: 36.5, corrected: 4.0
+raw: 24.2, cpu: 36.5, corrected: 4.0
+bme done: {'humidity': 17.100152101944545, 'temperature': 4.025959405788896, 'altitude': 1661.5867377686884, 'pressure': 82895.2515829079}
+reading gas...
+gas done: {'oxidising': 6751.269035532994, 'reducing': 5165.4411764705865, 'nh3': 5507.518796992479}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 24.4, cpu: 34.5, corrected: 7.9
+raw: 24.4, cpu: 34.5, corrected: 7.9
+raw: 24.4, cpu: 34.5, corrected: 7.9
+raw: 24.4, cpu: 34.5, corrected: 7.9
+bme done: {'humidity': 17.03369084869251, 'temperature': 7.876586979184946, 'altitude': 1663.8400760388993, 'pressure': 82872.2491655271}
+reading gas...
+gas done: {'oxidising': 6785.350966429297, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 24.7, cpu: 34.5, corrected: 8.5
+raw: 24.7, cpu: 34.5, corrected: 8.5
+raw: 24.7, cpu: 34.5, corrected: 8.5
+raw: 24.7, cpu: 36.0, corrected: 6.1
+bme done: {'humidity': 16.937974780416774, 'temperature': 8.515032246189865, 'altitude': 1663.192111286976, 'pressure': 82878.86315810292}
+reading gas...
+gas done: {'oxidising': 6802.44399185336, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.0, cpu: 35.0, corrected: 8.5
+raw: 25.0, cpu: 35.0, corrected: 8.5
+raw: 25.0, cpu: 35.0, corrected: 8.5
+raw: 25.0, cpu: 35.0, corrected: 8.5
+bme done: {'humidity': 16.54202323206006, 'temperature': 8.533322213823741, 'altitude': 1664.8826548806155, 'pressure': 82861.60811222365}
+reading gas...
+gas done: {'oxidising': 6802.44399185336, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 0, 'PM25': 5, 'PM10': 5}
+got readings
+data sent
+reading bme280...
+raw: 25.2, cpu: 35.5, corrected: 8.4
+raw: 25.2, cpu: 35.5, corrected: 8.4
+raw: 25.2, cpu: 35.5, corrected: 8.4
+raw: 25.2, cpu: 36.5, corrected: 6.8
+bme done: {'humidity': 16.159229373672137, 'temperature': 8.418604685802137, 'altitude': 1664.4184340921445, 'pressure': 82866.34603274899}
+reading gas...
+gas done: {'oxidising': 6819.571865443424, 'reducing': 5165.4411764705865, 'nh3': 5522.107243650047}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 22.8, cpu: 31.1, corrected: 9.2
+raw: 22.8, cpu: 31.1, corrected: 9.2
+raw: 22.8, cpu: 31.1, corrected: 9.2
+raw: 22.8, cpu: 31.1, corrected: 9.2
+bme done: {'humidity': 18.31893041032515, 'temperature': 9.234002959557237, 'altitude': 1666.372713141669, 'pressure': 82846.40179262162}
+reading gas...
+gas done: {'oxidising': 6633.064516129031, 'reducing': 5165.4411764705865, 'nh3': 5478.424015009379}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 6}
+got readings
+data sent
+reading bme280...
+raw: 22.0, cpu: 31.1, corrected: 7.0
+raw: 22.0, cpu: 31.1, corrected: 7.0
+raw: 22.0, cpu: 31.1, corrected: 7.0
+raw: 22.0, cpu: 30.1, corrected: 8.7
+bme done: {'humidity': 19.378672796302574, 'temperature': 7.012799923428139, 'altitude': 1668.6207443580631, 'pressure': 82823.46449515963}
+reading gas...
+gas done: {'oxidising': 6599.597585513077, 'reducing': 5165.4411764705865, 'nh3': 5449.438202247189}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 7}
+got readings
+data sent
+reading bme280...
+raw: 18.4, cpu: 30.6, corrected: -1.7
+raw: 18.4, cpu: 31.1, corrected: -2.5
+raw: 18.4, cpu: 31.1, corrected: -2.5
+raw: 18.4, cpu: 31.1, corrected: -2.5
+bme done: {'humidity': 24.130589833327086, 'temperature': -2.5101990132057317, 'altitude': 1668.2876078731651, 'pressure': 82826.86325623032}
+reading gas...
+gas done: {'oxidising': 6549.648946840521, 'reducing': 5151.515151515151, 'nh3': 5449.438202247189}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 7}
+got readings
+data sent
+reading bme280...
+raw: 16.2, cpu: 26.7, corrected: -1.1
+raw: 16.2, cpu: 26.7, corrected: -1.1
+raw: 16.2, cpu: 26.7, corrected: -1.1
+raw: 16.2, cpu: 26.7, corrected: -1.1
+bme done: {'humidity': 27.866502156923303, 'temperature': -1.0958124891037073, 'altitude': 1667.20265528559, 'pressure': 82837.93305965878}
+reading gas...
+gas done: {'oxidising': 6401.5904572564605, 'reducing': 5151.515151515151, 'nh3': 5391.791044776118}
+reading pms5003...
+pms done: {'PM1': 1, 'PM25': 6, 'PM10': 7}
+got readings
+data sent
+reading bme280...
