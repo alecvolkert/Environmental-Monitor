@@ -116,7 +116,9 @@ class BME280:
         raw_shifted = pre_shift_temp[0] << 12 | pre_shift_temp[1] << 4 | pre_shift_temp[2] >> 4
         raw_temp = self.raw_to_temp(raw_shifted)  # sets t_fine correctly, no offset
         cpu_temp = self.get_cpu_temperature()
-        return raw_temp - ((cpu_temp - raw_temp) / 1.5)
+        corrected = raw_temp - ((cpu_temp - raw_temp) / 1.5)
+        print(f"raw: {raw_temp:.1f}, cpu: {cpu_temp:.1f}, corrected: {corrected:.1f}")
+        return corrected
     
     def raw_to_temp(self, raw):
         var1 = (raw / 16384.0 - self.dig_T1 / 1024.0) * self.dig_T2
