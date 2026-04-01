@@ -114,7 +114,7 @@ class BME280:
     def get_temperature(self):
         pre_shift_temp = bus.read_i2c_block_data(BME280_ADDRESS, TEMP_ADD, 3)
         raw_shifted = pre_shift_temp[0] << 12 | pre_shift_temp[1] << 4 | pre_shift_temp[2] >> 4
-        raw_temp = self.raw_to_temp(raw_shifted)  # sets t_fine correctly, no offset
+        raw_temp = self.raw_to_temp(raw_shifted)
         cpu_temp = self.get_cpu_temperature()
         return raw_temp - ((cpu_temp - raw_temp) / 1.5)
     
