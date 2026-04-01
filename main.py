@@ -7,6 +7,7 @@ def main():
     try:
         while True:
             readings = sensors.get_readings()
+            print("got readings")
             data.add_to_database(readings)
             time.sleep(600)
 

@@ -1,4 +1,5 @@
 import smbus2 
+from subprocess import PIPE, Popen
 
 bus = smbus2.SMBus(1)
 
@@ -104,11 +105,18 @@ class BME280:
         pre_shift_press = bus.read_i2c_block_data(BME280_ADDRESS, PRESS_ADD, 3)
         raw_shifted_press = pre_shift_press[0] << 12 | pre_shift_press[1] << 4 | pre_shift_press[2] >> 4
         return self.raw_to_press(raw_shifted_press)
+    
+    def get_cpu_temperature(self):
+        process = Popen(['vcgencmd', 'measure_temp'], stdout=PIPE, stderr=PIPE)
+        output, _ = process.communicate()
+        return float(output.decode().replace('temp=', '').replace("'C\n", ''))
 
     def get_temperature(self):
         pre_shift_temp = bus.read_i2c_block_data(BME280_ADDRESS, TEMP_ADD, 3)
         raw_shifted = pre_shift_temp[0] << 12 | pre_shift_temp[1] << 4 | pre_shift_temp[2] >> 4
-        return self.raw_to_temp(raw_shifted)
+        raw_temp = self.raw_to_temp(raw_shifted)  # sets t_fine correctly, no offset
+        cpu_temp = self.get_cpu_temperature()
+        return raw_temp - ((cpu_temp - raw_temp) / 1.5)
     
     def raw_to_temp(self, raw):
         var1 = (raw / 16384.0 - self.dig_T1 / 1024.0) * self.dig_T2
